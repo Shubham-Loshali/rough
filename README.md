@@ -1,2 +1,2 @@
 # nothigh
-SDsdcsdcD SDCC
+SDsdcsdc
